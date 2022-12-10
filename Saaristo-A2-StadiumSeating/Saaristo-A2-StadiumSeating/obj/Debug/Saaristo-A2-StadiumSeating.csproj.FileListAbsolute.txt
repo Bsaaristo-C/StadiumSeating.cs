@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\Saaristo-A2-StadiumSeating\Saaristo-A2-StadiumSeating\bin\Debug\Saaristo-A2-StadiumSeating.exe.config
+C:\Users\brian\source\repos\Saaristo-A2-StadiumSeating\Saaristo-A2-StadiumSeating\bin\Debug\Saaristo-A2-StadiumSeating.exe
+C:\Users\brian\source\repos\Saaristo-A2-StadiumSeating\Saaristo-A2-StadiumSeating\bin\Debug\Saaristo-A2-StadiumSeating.pdb
+C:\Users\brian\source\repos\Saaristo-A2-StadiumSeating\Saaristo-A2-StadiumSeating\obj\Debug\Saaristo-A2-StadiumSeating.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\Saaristo-A2-StadiumSeating\Saaristo-A2-StadiumSeating\obj\Debug\Saaristo-A2-StadiumSeating.csproj.SuggestedBindingRedirects.cache
+C:\Users\brian\source\repos\Saaristo-A2-StadiumSeating\Saaristo-A2-StadiumSeating\obj\Debug\Saaristo_A2_StadiumSeating.Form1.resources
+C:\Users\brian\source\repos\Saaristo-A2-StadiumSeating\Saaristo-A2-StadiumSeating\obj\Debug\Saaristo_A2_StadiumSeating.Properties.Resources.resources
+C:\Users\brian\source\repos\Saaristo-A2-StadiumSeating\Saaristo-A2-StadiumSeating\obj\Debug\Saaristo-A2-StadiumSeating.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\Saaristo-A2-StadiumSeating\Saaristo-A2-StadiumSeating\obj\Debug\Saaristo-A2-StadiumSeating.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\Saaristo-A2-StadiumSeating\Saaristo-A2-StadiumSeating\obj\Debug\Saaristo-A2-StadiumSeating.exe
+C:\Users\brian\source\repos\Saaristo-A2-StadiumSeating\Saaristo-A2-StadiumSeating\obj\Debug\Saaristo-A2-StadiumSeating.pdb
